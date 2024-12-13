@@ -1,0 +1,22 @@
+.home {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .banner {
+    background: linear-gradient(135deg, #0047ab, #002b5e);
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+  }
+  
+  .banner h1 {
+    margin: 0;
+    font-size: 36px;
+  }
+  
+  .banner p {
+    margin-top: 15px;
+    font-size: 18px;
+  }
+  

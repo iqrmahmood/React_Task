@@ -1,0 +1,23 @@
+{
+    "tickets": [
+      {
+        "id": 1,
+        "studentName": "Namrah",
+        "competitionName": "CodeFest 2024",
+        "date": "2024-12-15"
+      },
+      {
+        "id": 2,
+        "studentName": "Ali",
+        "competitionName": "Hackathon Spring",
+        "date": "2024-12-18"
+      },
+      {
+        "id": 3,
+        "studentName": "zofishan",
+        "competitionName": "Hackathon Spring",
+        "date": "2024-12-18"
+      }
+    ]
+  }
+  
